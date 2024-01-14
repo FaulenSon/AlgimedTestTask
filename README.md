@@ -26,17 +26,17 @@
 <p>
  2)	Из колонки A для ячеек C01, D01 и F01 найти значения из колонки F, к примеру для С01 значение составляет 25.05. Должны получится такие соответствия:
  </p>
- <img src="https://i.ibb.co/6DyKL0s/6.png" width="426">
+ <img src="https://i.ibb.co/6DyKL0s/6.png" width="326">
 <p>
  3)	Составить матрицу результатов:
- <img src="https://i.ibb.co/VBDrq3n/7.png" width="226">
+ <p><img src="https://i.ibb.co/VBDrq3n/7.png" width="426"></p>
  </p>
  <p>
   Где, на пересечение ячеек формула на примере ячеек C01 и E01; Result = (C01 – E01)^2
  </p>
 <p>
  4)	Сохранить результат расчета в sql базу в таком виде:
- <img src="https://i.ibb.co/6HRLd7n/8.png" width="226">
+ <img src="https://i.ibb.co/6HRLd7n/8.png" width="326">
 </p>
 <p>
  <p>
